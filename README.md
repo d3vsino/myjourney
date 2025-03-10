@@ -1,6 +1,6 @@
 # My Journey 🚀👨🏻‍💻  
 A documentation of my ethical hacking and cybersecurity journey.  
-I update this repo with what I learn and do.  
+I update this documentation with what I learn and do.  
 
 ## 🗓️ Week 1 (March 10, 2025)  
 - Set up my own hacking lab, including **Kali Linux** and **Metasploitable 2**.  
